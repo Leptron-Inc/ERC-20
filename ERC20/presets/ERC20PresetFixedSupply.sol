@@ -32,4 +32,4 @@ contract ERC20PresetFixedSupply is ERC20Burnable {
     ) ERC20(name, symbol) {
         _mint(owner, initialSupply);
     }
-}
+};
