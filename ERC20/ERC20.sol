@@ -10,6 +10,7 @@
 
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v4.6.0) (token/ERC20/ERC20.sol)
+// Submited by Leptron-Inc on 11-June-2022 for verification
 
 pragma solidity ^0.8.0;
  
